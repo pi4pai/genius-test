@@ -1,0 +1,8 @@
+{
+  "formattingToggle.statusBarText": {
+    "formattingEnabled": "Formatting: On 🚀",
+    "formattingDisabled": "Formatting: Off ❌",
+    "formattingToggle.affects": ["editor.formatOnSave"]
+  }
+  
+}
